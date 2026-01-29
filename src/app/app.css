@@ -1,0 +1,5 @@
+.container { max-width: 900px; margin: 24px auto; padding: 0 16px; font-family: system-ui, Arial; }
+.nav { display: flex; gap: 12px; margin-bottom: 16px; }
+.nav a { text-decoration: none; padding: 8px 12px; border: 1px solid #ddd; border-radius: 8px; color: #111; }
+.nav a.active { border-color: #111; }
+.card { border: 1px solid #eee; border-radius: 12px; padding: 16px; }
